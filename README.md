@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duong
+- 👋 Hi, I’m 
 - 👀 I’m interested in front-end, basketball
 - 🌱 I’m currently learning front-end 
 - 📫 Contact me by phone number 0385572171
